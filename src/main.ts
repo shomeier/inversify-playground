@@ -1,5 +1,6 @@
 
-import container, { Warrior } from "./entities";
+// import container, { Warrior } from "./entities-simple";
+import container, { Warrior } from "./entities-postConstruct";
 import TYPES from "./types";
 
 console.log("Test")
